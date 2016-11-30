@@ -1,0 +1,25 @@
+{
+  "name": "earthbase",
+  "version": "1.0.0",
+  "description": "'Parent application for earth data\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-lamb-software-engineer/earthbase.git"
+  },
+  "keywords": [
+    "Protected",
+    "Earth",
+    "planet",
+    "data"
+  ],
+  "author": "Brian Lamb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brian-lamb-software-engineer/earthbase/issues"
+  },
+  "homepage": "https://github.com/brian-lamb-software-engineer/earthbase#readme"
+}
