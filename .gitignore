@@ -1,3 +1,6 @@
+#keep an exclude for each sub module (subtree)
+earthbase101
+
 # Logs
 logs
 *.log
